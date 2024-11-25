@@ -1,0 +1,5 @@
+# Ignorar archivos fuente de Photoshop
+*.xsd
+
+# Ignorar la carpeta top_secret
+top_secret/
